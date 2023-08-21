@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @scientia0713
 - 👀 I’m interested in chatGPT
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on test test
 - 📫 How to reach me ...
 
 <!---
